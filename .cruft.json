@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/achillepapin-ctrl/mlops-project-template.git",
+  "commit": "653eb0899a618cb5b20418ea469168396dc9f64e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Salaries Prediction Cruft",
+      "project_slug": "salaries_prediction_cruft",
+      "package_name": "salaries_prediction_cruft",
+      "author_name": "Achille",
+      "author_email": "achillepapin@gmail.com",
+      "python_version": "3.11",
+      "version": "0.1.0",
+      "description": "Reusable MLOps project",
+      "_template": "https://github.com/achillepapin-ctrl/mlops-project-template.git",
+      "_commit": "653eb0899a618cb5b20418ea469168396dc9f64e"
+    }
+  },
+  "directory": null
+}
