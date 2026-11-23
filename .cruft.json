@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/achillepapin-ctrl/mlops-project-template.git",
-  "commit": "653eb0899a618cb5b20418ea469168396dc9f64e",
+  "commit": "f24664b1d613ea5015a3f58bdb0d01398f62a421",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -13,7 +13,7 @@
       "version": "0.1.0",
       "description": "Reusable MLOps project",
       "_template": "https://github.com/achillepapin-ctrl/mlops-project-template.git",
-      "_commit": "653eb0899a618cb5b20418ea469168396dc9f64e"
+      "_commit": "f24664b1d613ea5015a3f58bdb0d01398f62a421"
     }
   },
   "directory": null
